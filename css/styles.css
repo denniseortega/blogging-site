@@ -1,0 +1,18 @@
+body{
+  background-color: #f2e7dc;
+  text-align: center;
+}
+
+div.intro{
+  font-size: 18pt;
+}
+
+div.tips{
+  color: purple;
+  font-family: helvetica;
+}
+
+div.this-month{
+  color: darkblue;
+  font-family: sans-serif;
+}
